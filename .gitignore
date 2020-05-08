@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+jquery.iml
+misc.xml
+modules.xml
+vcs.xml
+.idea/jquery.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+package-lock.json
